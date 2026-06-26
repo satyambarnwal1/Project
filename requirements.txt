@@ -1,0 +1,4 @@
+requests>=2.31
+beautifulsoup4>=4.12
+tldextract>=5.1
+ddgs>=9.0          # DuckDuckGo search (free, no API key). Was duckduckgo-search.
